@@ -31,7 +31,7 @@ Atualmente, trabalho como **Jovem Aprendiz no Assaí Atacadista (Sorocaba - Sant
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:gusoaresh@gmail.com">
+    <a href="gusoaresh@gmail.com">
         <img 
             alt="Email" 
             title="Envie-me um e-mail" 

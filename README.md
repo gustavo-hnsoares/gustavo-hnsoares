@@ -1,15 +1,12 @@
 
 ---
-
-# 👨🏻‍💻 Gustavo Henrique Nascimento Soares
+<h2 align="left">Olá👋! 👨🏻‍💻Meu nome é Gustavo Henrique Nascimento Soares</h2>
 
 **`Desenvolvedor Back-End Java`**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na FACENS**, com foco em **desenvolvimento Back-End Java**. Tenho interesse em criar soluções eficientes e bem estruturadas, sempre buscando aplicar boas práticas de código e ampliar meus conhecimentos em tecnologias modernas.
 
 Atualmente, trabalho como **Jovem Aprendiz no Assaí Atacadista (Sorocaba - Santa Rosália)** e estudo para aprimorar minhas habilidades em **Spring Boot**, **bancos de dados** e **boas práticas de desenvolvimento**.
-
-<h2 align="left">Olá👋! Meu nome é Gustavo Henrique Nascimento Soares</h2>
 
 ###
 

@@ -9,7 +9,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas na FACENS**, com foco em **desenvolvimento Back-End Java**.  
 Tenho interesse em criar soluções eficientes, escaláveis e bem estruturadas, sempre aplicando **boas práticas de código** e buscando evolução constante em tecnologias modernas.
 
-Atualmente, atuo como **Jovem Aprendiz no Assaí Atacadista (Sorocaba – Santa Rosália)** e sigo me aprofundando em **Spring Boot**, **bancos de dados**, **APIs REST** e **arquitetura de software**.
+Atualmente, atuo como **Jovem Aprendiz no Assaí Atacadista (Sorocaba – Santa Rosália)** e sigo me aprofundando em **bancos de dados**, **Java** e **Modelagem de Entidade de Relacionamento(MER)**.
 
 ---
 
